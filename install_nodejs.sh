@@ -3,7 +3,7 @@
 GREEN='\033[0;32m'
 NC='\033[0m' # No Color
 
-VERSION=v16.14.2
+VERSION=v14.19.1
 DISTRO=linux-x64
 
 echo -e "${GREEN}NodeJS Installation Script"
